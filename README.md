@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  :moneybag: Manage your Finances</a>
+
 </p>
 
 <div align="center">
@@ -41,7 +41,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/Gugusta/FinanceIO.git
+$ git clone https://github.com/Gugusta/GNews
 ```
 
 ```bash
@@ -49,7 +49,7 @@ $ git clone https://github.com/Gugusta/FinanceIO.git
 $ yarn
 
 # Run Aplication
-$ yarn start
+$ yarn dev
 ```
 Go to http://localhost:3000/ to see the result.
 
